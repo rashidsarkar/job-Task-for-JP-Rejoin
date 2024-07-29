@@ -3,16 +3,16 @@ import { Link } from "react-router-dom";
 function Navbar() {
   const links = (
     <>
-      <Link>
+      <Link to="/">
         <a>Home</a>
       </Link>
-      <Link>
+      <Link to="/colleges">
         <a>Colleges</a>
       </Link>
-      <Link>
+      <Link to="/admission">
         <a>Admission</a>
       </Link>
-      <Link>
+      <Link to="/my-college">
         <a>My College</a>
       </Link>
     </>
@@ -20,7 +20,7 @@ function Navbar() {
 
   return (
     <>
-      <div className="navbar bg-base-100">
+      <div className="navbar bg-base-300">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -51,7 +51,7 @@ function Navbar() {
           </a>
         </div>
         <div className="hidden navbar-center lg:flex">
-          <ul className="gap-4 px-1 font-semibold md:text-2xl menu menu-horizontal">
+          <ul className="px-1 font-semibold md:gap-4 md:text-base menu menu-horizontal">
             {links}
           </ul>
         </div>
@@ -88,6 +88,13 @@ function Navbar() {
             </ul>
           </div>
         </div>
+      </div>
+      <div className="flex justify-center py-4">
+        <input
+          type="text"
+          placeholder="Search..."
+          className="w-full max-w-xs input input-bordered"
+        />
       </div>
     </>
   );
