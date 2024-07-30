@@ -14,21 +14,21 @@ function ImageGallery() {
             <img
               className="rounded-xl"
               alt="Not Found in the server"
-              src="https://images.unsplash.com/photo-1576495199011-eb94736d05d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80"
+              src="https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             />
           </div>
           <div className="m-4 duration-500 rounded w-96 hover:scale-105">
             <img
               className="rounded-xl"
               alt="Not Found in the server"
-              src="https://plus.unsplash.com/premium_photo-1681505720432-f7476737c644?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
+              src="https://www.southernliving.com/thmb/osQ0-qCdyJmTELa8n7OnCE1cwz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/graduates-throwing-caps-1066324992-2000-c66181da679b46dab1f62f4b2fbe3e84.jpg"
             />
           </div>
           <div className="m-4 duration-500 rounded w-96 hover:scale-105">
             <img
               className="rounded-xl"
               alt="Not Found in the server"
-              src="https://images.unsplash.com/flagged/photo-1554473675-d0904f3cbf38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+              src="https://cloudfront-us-east-1.images.arcpublishing.com/opb/53TGF5JA2VCGZJKFHTQNE2VOFM.jpg"
             />
           </div>
         </div>
@@ -37,14 +37,14 @@ function ImageGallery() {
             <img
               className="rounded-xl"
               alt="Not Found in the server"
-              src="https://images.unsplash.com/photo-1619512673224-91cfb2688284?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+              src="https://www.brenau.edu/wp-content/uploads/2022/11/BU39237_DNP02-web.jpg"
             />
           </div>
           <div className="m-4 duration-500 rounded w-96 hover:scale-105">
             <img
               className="rounded-xl"
               alt="Not Found in the server"
-              src="https://images.unsplash.com/photo-1613902059328-4a860a118dca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+              src="https://tavistockandportman.ac.uk/wp-content/uploads/2023/07/IMG_9036.jpg"
             />
           </div>
         </div>
