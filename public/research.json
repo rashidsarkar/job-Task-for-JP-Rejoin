@@ -1,0 +1,66 @@
+[
+    {
+      "title": "Understanding the Impact of Artificial Intelligence on Society",
+      "link": "https://researcherslinks.com/journal/Biologia-Pakistan/37",
+      "authors": [
+        {
+          "name": "John A. Researcher",
+          "affiliation": "Department of Computer Science, University XYZ"
+        },
+        {
+          "name": "Jane B. Scholar",
+          "affiliation": "Institute of Technology, ABC University"
+        }
+      ],
+      "publicationDate": "2023-01-15",
+      "conference": {
+        "name": "International Conference on AI and Society",
+        "location": "City, Country",
+        "date": "2023-05-10"
+      },
+      "keywords": ["artificial intelligence", "society", "impact", "technology"]
+    },
+    {
+      "title": "Ethical Considerations in Autonomous Systems",
+      "link": "https://researcherslinks.com/journal/Advances-in-Animal-and-Veterinary-Sciences/33",
+      "authors": [
+        {
+          "name": "Alex C. Ethicist",
+          "affiliation": "Center for Ethics in Technology, University MNO"
+        },
+        {
+          "name": "Emily D. Engineer",
+          "affiliation": "School of Engineering, PQR University"
+        }
+      ],
+      "publicationDate": "2023-02-28",
+      "conference": {
+        "name": "International Conference on Ethics and Technology",
+        "location": "City, Country",
+        "date": "2023-06-15"
+      },
+      "keywords": ["ethics", "autonomous systems", "technology", "society"]
+    },
+    {
+      "title": "The Future of Human-Machine Collaboration",
+      "link": "https://researcherslinks.com/journal/hosts-and-viruses/6",
+      "authors": [
+        {
+          "name": "Michael Robo",
+          "affiliation": "Department of Robotics, University XYZ"
+        },
+        {
+          "name": "Olivia H. Interactionist",
+          "affiliation": "Human-Computer Interaction Lab, LMN Institute"
+        }
+      ],
+      "publicationDate": "2023-03-20",
+      "conference": {
+        "name": "International Symposium on Human-Machine Interaction",
+        "location": "City, Country",
+        "date": "2023-07-25"
+      },
+      "keywords": ["human-machine", "technology", "society", "future"]
+    }
+ 
+  ]
