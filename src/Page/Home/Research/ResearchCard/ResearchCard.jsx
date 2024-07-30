@@ -30,7 +30,7 @@ const ResearchCard = ({ item }) => {
           })}
         </div>
         <div className="justify-end card-actions">
-          <Link target="_" to={link} className="btn btn-primary">
+          <Link target="_" to={link} className="btn btn-info">
             Checkout
           </Link>
         </div>

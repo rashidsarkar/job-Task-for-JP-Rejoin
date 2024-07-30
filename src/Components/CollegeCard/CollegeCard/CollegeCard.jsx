@@ -35,9 +35,7 @@ function CollegeCard({
         <span className="inline-block px-3 py-1 mb-2 text-sm font-semibold text-gray-700 bg-gray-200 rounded-full">
           #Sports
         </span>
-        <button className="px-4 py-2 mt-4 text-white bg-blue-500 rounded hover:bg-blue-700">
-          Details
-        </button>
+        <button className="px-4 py-2 mt-4 btn btn-info">Details</button>
       </div>
     </div>
   );

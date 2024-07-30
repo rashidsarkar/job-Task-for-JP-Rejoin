@@ -39,7 +39,7 @@ function Footer() {
           Cookie Policy
         </a>
       </nav>
-      <form>
+      <form className="hidden lg:block">
         <h6 className="footer-title">Newsletter</h6>
         <fieldset className="form-control w-80">
           <label className="label">
@@ -51,7 +51,7 @@ function Footer() {
               placeholder="username@site.com"
               className="input input-bordered join-item"
             />
-            <button className="btn btn-primary join-item">Subscribe</button>
+            <button className="btn btn-info join-item">Subscribe</button>
           </div>
         </fieldset>
       </form>
